@@ -5,6 +5,7 @@
 
 本项目展示了从 硬件原型设计（Hardware Prototype Design） 到 UI界面与角色建模（UI Interface & Character Modeling） 的完整开发过程。
 目前已完成硬件接口与尺寸设计、UI原型以及角色模型制作。前端部分使用 HTML 实现界面展示。
+视频展示请查看Youtube: https://youtu.be/vm2iW_o5w6g 
 > This project demonstrates a complete development process — from hardware prototype design to UI interface and character modeling.
 > The hardware interface, sizing, UI prototypes, and 3D character models have been completed. The frontend uses HTML for interface display.
 ![123456](https://github.com/user-attachments/assets/e25811e4-88b0-4df7-8ec7-7f839dd1b8bd)
