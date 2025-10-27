@@ -5,7 +5,7 @@
 
 本项目展示了从 硬件原型设计（Hardware Prototype Design） 到 UI界面与角色建模（UI Interface & Character Modeling） 的完整开发过程。
 目前已完成硬件接口与尺寸设计、UI原型以及角色模型制作。前端部分使用 HTML 实现界面展示。
-> This project demonstrates a complete development process — from **hardware prototype design to UI interface and character modeling.
+> This project demonstrates a complete development process — from hardware prototype design to UI interface and character modeling.
 > The hardware interface, sizing, UI prototypes, and 3D character models have been completed. The frontend uses HTML for interface display.
 ![123456](https://github.com/user-attachments/assets/e25811e4-88b0-4df7-8ec7-7f839dd1b8bd)
 
@@ -55,6 +55,7 @@
 ### 前端代码 / Frontend Code/
 
 该部分为本项目的核心前端实现，基于 Next.js + TypeScript + Tailwind CSS + Prisma 构建。
+URL: https://a0f4y981g5t0-deploy.space.z.ai
 > This section contains the core frontend implementation built with Next.js, TypeScript, Tailwind CSS, and Prisma.
 
 | 文件夹 / 文件                                   | 说明 / Description                                                                                    |
