@@ -21,10 +21,9 @@
 
 孩子们可以通过完成学习任务来“喂养”这只宠物，而宠物的情绪状态会随着孩子的学习进度变化。
 这种机制鼓励孩子主动学习，并在过程中培养责任感与情感连接。
+通过结合陪伴与教育，这款 AI 宠物既能满足家长对教育工具的需求，也能满足孩子对有趣互动学习伙伴的期望。
 > Children “feed” the pet by completing learning tasks, and the pet’s **emotional state** changes based on their progress.
 > This encourages children to engage actively in learning while developing responsibility and emotional connection.
-
-通过结合陪伴与教育，这款 AI 宠物既能满足家长对教育工具的需求，也能满足孩子对有趣互动学习伙伴的期望。
 > By combining **companionship with education**, the AI pet meets both **parents’ desire for educational tools** and **children’s need for emotional engagement**.
 
 ---
@@ -102,7 +101,6 @@ This frontend supports component-based development, server-side rendering (SSR),
 ## 🚀 快速开始 | Quick Start
 
 1. 克隆项目 / Clone the Repository
-
    ```bash
    git clone https://github.com/yourname/fox-project.git
    ```
@@ -113,18 +111,15 @@ This frontend supports component-based development, server-side rendering (SSR),
    cd 前端代码
    open index.html
    ```
-
    或直接双击 `index.html` 文件打开浏览器
 
    > Or double-click `index.html` to open it in your browser.
 
-3. 查看硬件资料 / Check Hardware Files
 
-   * 接口定义：`Hardware/Interface Table`
-   * 结构尺寸：`Hardware/Hardware Size`
 
-4. 查看UI与演示 / Explore UI & Demo
+## 📜 License
 
-   * 打开文件夹 `UI界面原型设计与演示视频` 查看 Figma 与演示视频。
+本项目遵循 **MIT License** 开源协议。
+详情请参阅 [LICENSE](./LICENSE)。
 
 
