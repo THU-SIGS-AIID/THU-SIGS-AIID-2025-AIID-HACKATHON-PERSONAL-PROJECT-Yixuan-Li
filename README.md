@@ -34,9 +34,9 @@
 
 硬件部分包含所有与设备实现相关的文件：
 > The hardware section contains all files related to device implementation.
+> Source Code：硬件源代码请查看google drive: https://drive.google.com/drive/folders/1jRvZkDxoGEdzoCoVHyK0wyxFGtLVlXFX?usp=sharing
 
 * Interface Table：硬件接口定义与通信说明 (Hardware interface definitions & communication specs)
-* Source Code：硬件源代码 (Embedded control code)
 * Hardware Size：设备尺寸与结构文件 (Hardware sizing & mechanical design)
 * Emoji GIF：用于设备表情显示的动态素材 (Animated GIFs for facial expressions)
 
